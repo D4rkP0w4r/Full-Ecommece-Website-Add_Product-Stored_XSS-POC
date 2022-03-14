@@ -10,6 +10,7 @@
 ![image](https://user-images.githubusercontent.com/79050415/158090598-0b273971-4fe1-4479-b7c1-95597f40fe83.png)
 # Vulnerable Code
 ![image](https://user-images.githubusercontent.com/79050415/158090702-340cdc74-8abc-4903-99e9-4d7b2d9b6414.png)
+![image](https://user-images.githubusercontent.com/79050415/158151529-b0bb3b26-cb0f-43a1-8aab-967cbc71a30b.png)
 * When inserting into the database, the input is not filtered out characters
 # POC
 * Injection Point
