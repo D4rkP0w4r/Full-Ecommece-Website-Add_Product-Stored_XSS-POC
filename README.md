@@ -2,7 +2,7 @@
 * `Note` => Login to admin
 * `Description` => Stored_XSS at `Product Title`
 # Step to Reproduct
-* `Login to admin` -> `Add Product` -> input payload `<img/src/onerror=prompt(10)>` at `Product Title` -> `Product Title`
+* `Login to admin` -> `Add Product` -> input payload `<img/src/onerror=prompt(10)>` at `Product Title`
 # Exploit
 ![image](https://user-images.githubusercontent.com/79050415/158090373-2c108b5d-999d-4b23-82dc-1971dd1809fb.png)
 * Input payload at `Product Title` -> clicked `Product Title` -> The XSS will trigger
